@@ -1,0 +1,1 @@
+[2025-03-10T06:32:30.009Z] ERROR: Error cek running di http://127.0.0.1:39324/iotgateway/read?ids=Channel1.Device1.tag4 - connect ECONNREFUSED 127.0.0.1:39324
